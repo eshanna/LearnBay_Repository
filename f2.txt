@@ -1,0 +1,3 @@
+this is python class by learnbay
+Next is the statistics section
+And then machine learning
